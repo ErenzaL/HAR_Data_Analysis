@@ -1,0 +1,16 @@
+Data/
+data/
+dataset/
+datasets/
+Social networks/
+*.csv
+*.pkl
+*.pickle
+*.npy
+*.zip
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
